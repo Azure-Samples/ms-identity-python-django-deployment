@@ -2,7 +2,7 @@
 
 This sample has been archived and is no longer being maintained. You can find a more recent version of this sample [here](https://github.com/Azure-Samples/ms-identity-docs-code-python/tree/main/django-web-app)
 
-For access to the project files, please visit the branch `main`.
+For access to the project files, please visit the branch `archive`.
 
 ## Disclaimer
 
